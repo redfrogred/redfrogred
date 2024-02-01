@@ -1,13 +1,13 @@
 # REDFROGRED
-is a developer that works out of Toronto.  
+is a developer that works out of Toronto.  I am always open to remote work!    
 
 Primarily I code:  
-1. MOBILE APPS (using Flutter/Dart)
-2. WEB APPS (using HTML/CSS/JavaScript)  
+1. MOBILE APPS (using Flutter/Dart)    
+2. WEB APPS (using HTML/CSS/JavaScript)      
 
-Check out some documentation I have here:   
-https://github.com/redfrogred/DOCS/blob/main/README.md
+This is my private github.  To see my public one check out:  
+[github.com/mattgwriter7](https://github.com/mattgwriter7)
 
 And my professional portfolio:   
-http://www.redfrogconsulting.com   
+[mattgarvin.com](https://mattgarvin.com)
 
